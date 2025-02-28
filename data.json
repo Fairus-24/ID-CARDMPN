@@ -1,0 +1,4 @@
+{
+    "123": { "nama": "Fairus", "jabatan": "Ketua Mahapala", "foto": "https://example.com/foto-fairus.jpg", "email": "fairus@example.com", "telepon": "+62 812 3456 7890" },
+    "456": { "nama": "Adit", "jabatan": "Wakil Ketua", "foto": "https://example.com/foto-adit.jpg", "email": "adit@example.com", "telepon": "+62 857 1234 5678" }
+}
