@@ -1,4 +1,10 @@
 {
-    "123": { "nama": "Fairus", "jabatan": "Ketua Mahapala", "foto": "https://example.com/foto-fairus.jpg", "email": "fairus@example.com", "telepon": "+62 812 3456 7890" },
-    "456": { "nama": "Adit", "jabatan": "Wakil Ketua", "foto": "https://example.com/foto-adit.jpg", "email": "adit@example.com", "telepon": "+62 857 1234 5678" }
+    "123": {
+        "nomor_registrasi": "MPN-001",
+        "nama_lapangan": "Prajurit Gunung",
+        "nama_angkatan": "Pendekar Alam XIX",
+        "masa_berlaku": "2025-12-31",
+        "nama_lengkap": "Fairus Afanza",
+        "qr": "https://username.github.io/id-card/?id=123"
+    }
 }
